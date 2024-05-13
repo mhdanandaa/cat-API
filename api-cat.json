@@ -1,16 +1,14 @@
 [
-    {"nama": "Bengal", "imageId": "bengal.jpg"},
-    {"nama": "British Shorthair", "imageId": "british_shorthair.jpg"},
-    {"nama": "Burmase", "imageId": "burmase.jpg"},
-    {"nama": "Colorpoint", "imageId": "colorpoint.jpg"},
-    {"nama": "Donskoy", "imageId": "donskoy.jpg"},
-    {"nama": "oriental", "imageId": "oriental.jpg"},
-    {"nama": "Russian Blue", "imageId": "russia_blue.jpg"},
-    {"nama": "Scotish Fold", "imageId": "scotish_fold.jpg"},
-    {"nama": "Siberian", "imageId": "siberian.jpg"},
-    {"nama": "Tuxedo", "imageId": "tuxedo.jpg"},
-    {"nama": "Maine Coon", "imageId": "maine_coon.jpg"},
-    {"nama": "Sphynx", "imageId": "sphynx.jpg"}
-
-
+  { "nama": "Bengal", "imageId": "bengal.jpg" },
+  { "nama": "British Shorthair", "imageId": "british_shorthair.jpg" },
+  { "nama": "Burmase", "imageId": "burmase.jpg" },
+  { "nama": "Colorpoint", "imageId": "colorpoint.jpg" },
+  { "nama": "Donskoy", "imageId": "donskoy.jpg" },
+  { "nama": "oriental", "imageId": "oriental.jpg" },
+  { "nama": "Russian Blue", "imageId": "russia_blue.jpg" },
+  { "nama": "Scotish Fold", "imageId": "scotish_fold.jpg" },
+  { "nama": "Siberian", "imageId": "siberian.jpg" },
+  { "nama": "Tuxedo", "imageId": "tuxedo.jpg" },
+  { "nama": "Maine Coon", "imageId": "maine_coon.jpg" },
+  { "nama": "Sphynx", "imageId": "sphynx.jpg" }
 ]
