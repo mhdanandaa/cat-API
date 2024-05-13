@@ -8,6 +8,9 @@
     {"nama": "Russian Blue", "imageId": "russia_blue.jpg"},
     {"nama": "Scotish Fold", "imageId": "scotish_fold.jpg"},
     {"nama": "Siberian", "imageId": "siberian.jpg"},
-    {"nama": "Tuxedo", "imageId": "tuxedo.jpg"}
+    {"nama": "Tuxedo", "imageId": "tuxedo.jpg"},
+    {"nama": "Maine Coon", "imageId": "maine_coon.jpg"},
+    {"nama": "Sphynx", "imageId": "Sphynx.jpg"}
+
 
 ]
