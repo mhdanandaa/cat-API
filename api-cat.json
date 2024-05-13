@@ -1,0 +1,13 @@
+[
+    {"nama": "Bengal", "imageId": "bengal"},
+    {"nama": "British Shorthair", "imageId": "british_shorthair"},
+    {"nama": "Burmase", "imageId": "burmase"},
+    {"nama": "Colorpoint", "imageId": "colorpoint"},
+    {"nama": "Donskoy", "imageId": "donskoy"},
+    {"nama": "oriental", "imageId": "orienatal"},
+    {"nama": "Russian Blue", "imageId": "russia_blue"},
+    {"nama": "Scotish Fold", "imageId": "scotish_fold"},
+    {"nama": "Siberian", "imageId": "siberian"},
+    {"nama": "Tuxedo", "imageId": "toxedo"}
+
+]
