@@ -1,14 +1,9 @@
 [
-  { "nama": "Bengal", "imageId": "bengal.jpg" },
-  { "nama": "British Shorthair", "imageId": "british_shorthair.jpg" },
-  { "nama": "Burmase", "imageId": "burmase.jpg" },
-  { "nama": "Colorpoint", "imageId": "colorpoint.jpg" },
-  { "nama": "Donskoy", "imageId": "donskoy.jpg" },
-  { "nama": "Oriental", "imageId": "oriental.jpg" },
-  { "nama": "Russian Blue", "imageId": "russia_blue.jpg" },
-  { "nama": "Scotish Fold", "imageId": "scotish_fold.jpg" },
-  { "nama": "Siberian", "imageId": "siberian.jpg" },
-  { "nama": "Tuxedo", "imageId": "tuxedo.jpg" },
-  { "nama": "Himalayan", "imageId": "himalayan.jpg" },
-  { "nama": "Maine Coon", "imageId": "maine_coon.jpg" }
+  { "id": "1", "nama": "Bengal", "jenis": "kucing ", "imageId": "bengal.jpg" },
+  {
+    "id": "2",
+    "nama": "British Shorthair",
+    "jenis": "kucing ",
+    "imageId": "british_shorthair.jpg"
+  }
 ]
